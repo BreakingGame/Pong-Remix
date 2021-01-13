@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Justi\Documents\MyGames\Modern Pong\ModernPong\ModernPong\Main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Justi\Documents\MyGames\Modern Pong\ModernPong\ModernPong\PongGame.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PongGame.cpp
+C:\Users\Justi\Documents\MyGames\Modern Pong\ModernPong\ModernPong\PongGame.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ModernPong.vcxproj -> C:\Users\Justi\Documents\MyGames\Modern Pong\ModernPong\x64\Debug\ModernPong.exe
